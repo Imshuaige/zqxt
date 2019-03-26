@@ -1,2 +1,1 @@
-copy
-by zqxt
+code for simple blog_lrl
